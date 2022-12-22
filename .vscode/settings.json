@@ -1,0 +1,8 @@
+{
+    "dotenv.enableAutocloaking": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "files.eol": "\n",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
